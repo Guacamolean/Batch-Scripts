@@ -14,4 +14,3 @@ GOTO end
 GOTO end
 
 :end
-EXIT
